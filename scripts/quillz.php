@@ -1,7 +1,7 @@
 <?php
 
 $Name = "Aquila Kalagbor";
-$iD = "HNG-05991";
+$id = "HNG-05991";
 $Email = "quillz.ak@gmail.com";
 $Language = "PHP";
 
